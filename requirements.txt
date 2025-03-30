@@ -9,7 +9,6 @@ camelot-py
 certifi
 cffi
 chardet
-charset-normalize
 click
 colorama
 contourpy
