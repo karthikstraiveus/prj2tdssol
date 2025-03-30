@@ -13,8 +13,6 @@ filelock
 fonttools
 frozenlist
 h11
-httpcore
-httptools
 idna
 img2pdf
 jsonpatch
@@ -30,12 +28,9 @@ markdownify
 MarkupSafe
 mpmath
 multidict
-mypy-extensions
 numpy
-packaging
 pandas
 pdfminer.six
-pi_heif
 pillow
 platformdirs
 propcache
@@ -60,11 +55,9 @@ rich-toolkit
 safetensors
 sentence-transformers
 setuptools
-shellingham
 six
 sniffio
 soupsieve
-starlette
 sympy
 tenacity
 threadpoolctl
