@@ -20,7 +20,6 @@ deprecation
 dnspython
 docker
 email_validator
-et_xmlfil
 fastapi
 fastapi-cli
 filelock
