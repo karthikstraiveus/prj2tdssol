@@ -82,7 +82,6 @@ python-dateutil
 python-dotenv
 python-multipart
 pytz
-pywin32
 PyYAML
 regex
 requests
