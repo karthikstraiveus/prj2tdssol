@@ -2,16 +2,12 @@ annotated-types
 attrs
 beautifulsoup4
 camelot-py
-certifi
-cffi
 chardet
 click
-colorama
 fastapi
 fastapi-cli
 filelock
 fonttools
-frozenlist
 h11
 idna
 img2pdf
@@ -56,7 +52,6 @@ safetensors
 sentence-transformers
 setuptools
 six
-sniffio
 soupsieve
 sympy
 tenacity
