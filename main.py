@@ -23,8 +23,6 @@ from PIL import Image
 import numpy as np
 
 import json
-
-import httpx
 import os
 import io
 from typing import Dict, Any, Annotated
