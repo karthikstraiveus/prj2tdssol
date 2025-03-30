@@ -20,8 +20,6 @@ frozenlist
 h11
 httpcore
 httptools
-httpx
-httpx-sse
 idna
 img2pdf
 jsonpatch
