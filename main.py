@@ -98,7 +98,7 @@ class LlamaLLM(LLM):
 class Item(BaseModel):
     question: str
 
-app = FastAPI()
+app = FastAPI(debug=True)
 
 app.add_middleware(CORSMiddleware, allow_credentials=True, allow_origins=["*"],  allow_methods=["*"],  # Allow specific methods
     allow_headers=["*"]) # Allow GET requests from all origins
