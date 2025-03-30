@@ -12,12 +12,10 @@ chardet
 click
 colorama
 contourpy
-cryptography
 cycler
 dataclasses-json
 Deprecated
 deprecation
-dnspython
 docker
 email_validator
 fastapi
@@ -25,18 +23,13 @@ fastapi-cli
 filelock
 fonttools
 frozenlist
-fsspec
-greenlet
 h11
 httpcore
 httptools
 httpx
 httpx-sse
-huggingface-hub
 idna
 img2pdf
-Jinja2
-joblib
 jsonpatch
 jsonpointer
 langchain
@@ -48,8 +41,6 @@ lxml
 markdown-it-py
 markdownify
 MarkupSafe
-marshmallow
-matplotlib
 mdurl
 mpmath
 multidict
@@ -57,10 +48,7 @@ mypy-extensions
 networkx
 numpy
 ocrmypdf
-opencv-python
-opencv-python-headless
 openpyxl
-orjson
 packaging
 pandas
 pdfminer.six
@@ -68,7 +56,6 @@ pi_heif
 pikepdf
 pillow
 platformdirs
-pluggy
 propcache
 pycparser
 pydantic
@@ -119,6 +106,3 @@ uvicorn
 watchfiles
 websockets
 wrapt
-yarl
-yt-dlp
-zstandard
