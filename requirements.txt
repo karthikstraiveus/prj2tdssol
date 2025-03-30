@@ -105,7 +105,6 @@ tenacity
 threadpoolctl
 tiktoken
 tokenizers
-torch
 tqdm
 transformers
 typer
