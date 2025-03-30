@@ -39,7 +39,6 @@ Jinja2
 joblib
 jsonpatch
 jsonpointer
-kiwisolve
 langchain
 langchain-community
 langchain-core
