@@ -1,6 +1,3 @@
-aiohappyeyeballs
-aiohttp
-aiosignal
 annotated-types
 anyio
 attrs
@@ -11,9 +8,6 @@ cffi
 chardet
 click
 colorama
-contourpy
-cycler
-dataclasses-json
 Deprecated
 deprecation
 docker
