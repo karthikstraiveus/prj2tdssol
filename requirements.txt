@@ -20,13 +20,8 @@ pypdfium2
 regex
 requests
 requests-toolbelt
-safetensors
-sentence-transformers
 tiktoken
 tokenizers
 transformers
 typer
 tzdata
-urllib3
-uv
-uvicorn
