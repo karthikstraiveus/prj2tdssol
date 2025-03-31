@@ -1,5 +1,3 @@
-annotated-types
-attrs
 beautifulsoup4
 camelot-py
 chardet
@@ -9,7 +7,6 @@ fastapi-cli
 langchain
 langchain-core
 langchain-text-splitters
-lxml
 markdown-it-py
 markdownify
 MarkupSafe
@@ -23,7 +20,6 @@ pycparser
 pydantic
 pydantic-settings
 pydantic_core
-Pygments
 pyparsing
 pypdf
 pypdfium2
